@@ -24,5 +24,8 @@ ul.link-list li a span {
   text-align: center;
 }
 body {
-  background-image: url("https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fbgmenu.png?v=1634314325046");
+  background-image: url("https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/image1.jpg?v=1696711032621");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
