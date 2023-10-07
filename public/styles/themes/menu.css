@@ -27,7 +27,7 @@ ul.link-list li a:visited {
   min-height: 4.5rem;
 }
 ul.link-list li a span {
-  text-align: justify;
+  text-align: center;
   line-height: 1.2em;
   flex-grow: 1;
   text-align: center;

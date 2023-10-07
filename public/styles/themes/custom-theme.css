@@ -19,3 +19,9 @@ TIP: Get started creating your own theme here
 }
 
 /* Add your style rules! */
+ul.link-list li a span {
+  text-align: center;
+  line-height: 1.2em;
+  flex-grow: 1;
+  text-align: center;
+}

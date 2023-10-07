@@ -7,9 +7,9 @@
   "links": [
     {
       "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
-      "altText": "Glitch blue generative art"
+      "text": "Facebook",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1024px-2021_Facebook_icon.svg.png",
+      "altText": ""
     },
     {
       "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
@@ -23,13 +23,13 @@
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "",
     "arena": "",
     "bandcamp": "",
     "cohost": "",
-    "dev": "https://dev.to/glitch",
+    "dev": "",
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "github": "",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
