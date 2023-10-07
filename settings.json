@@ -6,14 +6,14 @@
   "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png?v=1696711594605",
   "links": [
     {
-      "url": "https://www.glitch.com/",
+      "url": "https://diosdeath.bandcamp.com/",
       "text": "Bandcamp",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": "https://www.lockjawrecords.co.uk/wp-content/uploads/2018/10/bargain-2.png"
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
+      "url": "https://www.instagram.com/dios_death/",
       "text": "Instagram",
-      "img": "https://cdn1.vectorstock.com/i/1000x1000/02/40/instagram-logo-icon-vector-22390240.jpg"
+      "img": "https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png"
     },
     {
       "url": "https://glitch.new/links",
@@ -24,21 +24,21 @@
     {
       "url": "https://glitch.new/links",
       "text": "Youtube",
-      "img": "https://www.svgrepo.com/show/59183/youtube-logo-in-a-square.svg",
+      "img": "https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png",
       "altText": ""
     }
   ],
   "social": {
     "glitch": "",
     "arena": "",
-    "bandcamp": "",
+    "bandcamp": "https://diosdeath.bandcamp.com/",
     "cohost": "",
     "dev": "",
     "facebook": "",
     "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "",
+    "instagram": "https://www.instagram.com/dios_death/",
     "keybase": "",
     "kofi": "",
     "letterboxd": "",
