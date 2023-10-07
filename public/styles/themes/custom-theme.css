@@ -20,8 +20,9 @@ TIP: Get started creating your own theme here
 
 /* Add your style rules! */
 ul.link-list li a span {
-  text-align: center;
-  line-height: 1.2em;
   flex-grow: 1;
   text-align: center;
+}
+body {
+  background-image: url("https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fbgmenu.png?v=1634314325046");
 }
