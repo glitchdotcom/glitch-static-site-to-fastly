@@ -16,13 +16,13 @@
       "img": "https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png"
     },
     {
-      "url": "https://glitch.new/links",
+      "url": "https://www.facebook.com/dios.death",
       "text": "Facebook",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1024px-2021_Facebook_icon.svg.png",
       "altText": ""
     },
     {
-      "url": "https://glitch.new/links",
+      "url": "https://www.youtube.com/@diosdeathmetal",
       "text": "Youtube",
       "img": "https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png",
       "altText": ""
@@ -34,7 +34,7 @@
     "bandcamp": "https://diosdeath.bandcamp.com/",
     "cohost": "",
     "dev": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/dios.death",
     "github": "",
     "gitlab": "",
     "hashnode": "",
@@ -58,7 +58,7 @@
     "twitch": "",
     "tiktok": "",
     "tumblr": "",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "email": "support@glitch.com"
+    "youtube": "https://www.youtube.com/@diosdeathmetal",
+    "email": "dios.deathmetal@gmail.com"
   }
 }
