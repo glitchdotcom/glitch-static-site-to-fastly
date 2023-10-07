@@ -13,15 +13,18 @@ TIP: Get started creating your own theme here
   --font-family-header: Arial, sans-serif;
   --font-family-list: Arial, sans-serif;
   --color-bg: black;
-  --color-bg-alt: aqua;
-  --color-text-main: red;
-  --color-primary: blue;
+  --color-bg-alt: darkred;
+  --color-text-main: white;
+  --color-primary: darkred;
+  --avatar-max-width: 300px;
 }
 
 /* Add your style rules! */
 ul.link-list li a span {
   flex-grow: 1;
   text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
 }
 body {
   background-image: url("https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/image1.jpg?v=1696711032621");

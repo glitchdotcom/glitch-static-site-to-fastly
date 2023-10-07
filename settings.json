@@ -3,8 +3,18 @@
   "metaDescription": "Metal band webpage",
   "name": "",
   "theme": "custom-theme",
-  "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/image2.jpg?v=1696710387079",
+  "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png?v=1696711594605",
   "links": [
+    {
+      "url": "https://www.glitch.com/",
+      "text": "Bandcamp",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+    },
+    {
+      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
+      "text": "Instagram",
+      "img": "https://cdn1.vectorstock.com/i/1000x1000/02/40/instagram-logo-icon-vector-22390240.jpg"
+    },
     {
       "url": "https://glitch.new/links",
       "text": "Facebook",
@@ -12,14 +22,10 @@
       "altText": ""
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
-      "img": ""
-    },
-    {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "url": "https://glitch.new/links",
+      "text": "Youtube",
+      "img": "https://www.svgrepo.com/show/59183/youtube-logo-in-a-square.svg",
+      "altText": ""
     }
   ],
   "social": {
@@ -37,7 +43,7 @@
     "kofi": "",
     "letterboxd": "",
     "linkedin": "",
-    "mastodon": "https://mastodon.social/@glitchdotcom",
+    "mastodon": "",
     "medium": "",
     "onlyfans": "",
     "patreon": "",
@@ -48,7 +54,7 @@
     "spotify": "",
     "stackoverflow": "",
     "substack": "",
-    "twitter": "https://twitter.com/glitch",
+    "twitter": "",
     "twitch": "",
     "tiktok": "",
     "tumblr": "",
