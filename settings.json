@@ -5,6 +5,12 @@
   "theme": "custom-theme",
   "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png?v=1696711594605",
   "links": [
+    
+    {
+      "url": "https://entradium.com/events/empty-intolerance-maldicao-dios-barcelona",
+      "text": "Oct 28th @ BCN concert",
+      "img": "https://image.spreadshirtmedia.com/image-server/v1/designs/1020474073,width=178,height=178,colors%5B0%5D=FFFFFF.png"
+    },
     {
       "url": "https://diosdeath.bandcamp.com/",
       "text": "Bandcamp",
