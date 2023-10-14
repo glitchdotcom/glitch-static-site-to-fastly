@@ -4,14 +4,12 @@
   "name": "",
   "theme": "custom-theme",
   "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png?v=1696711594605",
-  "links": [
-    
+  "links": [  
     {
       "url": "https://entradium.com/events/empty-intolerance-maldicao-dios-barcelona",
       "text": "Oct 28th @ BCN concert",
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/1020474073.png?v=1697315458000"
     },
-    
     {
       "url": "about.html",
       "text": "Band information",
