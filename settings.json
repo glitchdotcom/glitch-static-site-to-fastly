@@ -6,14 +6,19 @@
   "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png?v=1696711594605",
   "links": [  
     {
-      "url": "https://entradium.com/events/empty-intolerance-maldicao-dios-barcelona",
-      "text": "Oct 28th @ BCN concert",
+      "url": "https://www.facebook.com/events/1585477375594099/",
+      "text": "9 Diciembre @ Infierno (Terrassa)",
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/1020474073.png?v=1697315458000"
     },
     {
       "url": "about.html",
-      "text": "Band information",
+      "text": "Información del grupo",
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/PAPYRO_BLANCO_TRANS_SIMPLE-low.png?v=1697214565902"
+    },
+    {
+      "url": "https://open.spotify.com/album/2VZLdkO19vwbpj7me0L8B4",
+      "text": "Exordium (EP) en Spotify",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/1020474073.png?v=1697315458000"
     },
     {
       "url": "https://diosdeath.bandcamp.com/",
@@ -61,7 +66,7 @@
     "pinterest": "",
     "podcast": "",
     "soundcloud": "",
-    "spotify": "",
+    "spotify": "https://open.spotify.com/artist/4EgUblcpgrPXIXFpGyUmAU",
     "stackoverflow": "",
     "substack": "",
     "twitter": "",
