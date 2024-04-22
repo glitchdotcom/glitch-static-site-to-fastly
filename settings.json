@@ -3,7 +3,12 @@
   "metaDescription": "Metal band webpage",
   "theme": "custom-theme",
   "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png?v=1700395715912",
-  "links": [  
+  "links": [
+    {
+      "url": "https://entradium.com/es/events/festival-presentacion-manguales-valencia",
+      "text": "21 de Junio Valencia: Udûn, Art Of Butchery, ReDimoni y DIOS",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/8f5d0787ed9af05113eb41afb36c17bd-double-speakers-icon.png?v=1705356231424"
+    },
     {
       "url": "about.html",
       "text": "Información del grupo",
