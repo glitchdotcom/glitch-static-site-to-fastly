@@ -28,7 +28,7 @@ ul.link-list li a span {
 }
 body {
   background-image: url("https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/2501background.jpg?v=1740598169289");
-  background-size: contain;
+  background-size: 80%;
   background-position: center;
   background-repeat: no-repeat;
 }
