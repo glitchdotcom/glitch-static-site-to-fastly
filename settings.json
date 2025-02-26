@@ -30,11 +30,6 @@
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/Spotify_logo_without_text.svg.webp?v=1698707630572"
     },
     {
-      "url": "https://es.wallapop.com/item/dios-exordium-casete-cd-y-parche-958490017",
-      "text": "CDs y merch en Wallapop",
-      "img": "https://about.wallapop.com/wp-content/themes/wallapop-theme-3/assets/img/wallapop.svg"
-    },
-    {
       "url": "https://www.youtube.com/@diosdeathmetal",
       "text": "Youtube",
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/free-youtube-logo-icon-2431-thumb.png?v=1697315620707",
@@ -45,6 +40,11 @@
       "text": "Facebook",
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/2021_Facebook_icon.svg.png?v=1697315585172",
       "altText": ""
+    },
+    {
+      "url": "https://es.wallapop.com/item/dios-exordium-casete-cd-y-parche-958490017",
+      "text": "CDs y merch en Wallapop",
+      "img": "https://about.wallapop.com/wp-content/themes/wallapop-theme-3/assets/img/wallapop.svg"
     }
   ],
   "social": {
