@@ -143,6 +143,12 @@ h1 {
   color: var(--color-primary);
   justify-content: center;
 }
+mark {
+  background-color: var(--color-primary);
+  color: var(--color-text-main);
+  font-weight: bold;
+  font-size: clamp(1.2rem, 0.925rem + 0.3333vw, 1.2rem);
+}
 ul > li,
 ol > li {
   margin-bottom: 0.75rem;
