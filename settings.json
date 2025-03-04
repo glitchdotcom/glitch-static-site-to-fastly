@@ -1,18 +1,18 @@
 {
   "metaTitle": "Dios Death Metal",
-  "metaDescription": "Metal band webpage",
+  "metaDescription": "Barcelona metal band webpage",
   "theme": "custom-theme",
   "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png?v=1700395715912",
   "links": [
     {
-      "url": "https://salapadro.org/event/concerts-de-metall-heretge",
-      "text": "01/03/25 Cornellà (BCN): DIOS y Cultum Mortis",
-      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/8f5d0787ed9af05113eb41afb36c17bd-double-speakers-icon.png?v=1705356231424"
-    },
-    {
       "url": "about.html",
       "text": "Información del grupo",
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/PAPYRO_BLANCO_TRANS_SIMPLE-low.png?v=1697214565902"
+    },
+    {
+      "url": "https://es.concerts-metal.com/g-60710__Dios.html",
+      "text": "Agenda conciertos concerts-metal",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/8f5d0787ed9af05113eb41afb36c17bd-double-speakers-icon.png?v=1705356231424"
     },
     {
       "url": "https://diosdeath.bandcamp.com/",
