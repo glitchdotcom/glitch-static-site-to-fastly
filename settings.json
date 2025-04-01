@@ -3,6 +3,7 @@
   "metaDescription": "Barcelona metal band webpage",
   "theme": "custom-theme",
   "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png?v=1700395715912",
+  "name": "Roods From God is out!",
   "links": [
     {
       "url": "about.html",
@@ -16,8 +17,13 @@
     },
     {
       "url": "https://diosdeath.bandcamp.com/",
-      "text": "Roods From God → Bandcamp",
+      "text": "Roods From God en Bandcamp",
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/bargain-2.png?v=1697315503860"
+    },
+        {
+      "url": "https://es.wallapop.com/item/dios-roods-from-god-1114906820",
+      "text": "Roods From God en Wallapop",
+      "img": "https://about.wallapop.com/wp-content/themes/wallapop-theme-3/assets/img/wallapop.svg"
     },
     {
       "url": "https://www.instagram.com/dios_death/",
@@ -40,11 +46,6 @@
       "text": "Facebook",
       "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/2021_Facebook_icon.svg.png?v=1697315585172",
       "altText": ""
-    },
-    {
-      "url": "https://es.wallapop.com/item/dios-exordium-casete-cd-y-parche-958490017",
-      "text": "CDs y merch en Wallapop",
-      "img": "https://about.wallapop.com/wp-content/themes/wallapop-theme-3/assets/img/wallapop.svg"
     }
   ],
   "social": {
