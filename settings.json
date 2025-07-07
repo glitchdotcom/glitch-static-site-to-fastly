@@ -1,0 +1,84 @@
+{
+  "metaTitle": "Dios Death Metal",
+  "metaDescription": "Barcelona metal band webpage",
+  "theme": "custom-theme",
+  "avatarImage": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/logo.png",
+  "name": "Roods From God is out!",
+  "links": [
+    {
+      "url": "about.html",
+      "text": "Información del grupo",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/PAPYRO_BLANCO_TRANS_SIMPLE-low.png?v=1697214565902"
+    },
+    {
+      "url": "https://es.concerts-metal.com/g-60710__Dios.html",
+      "text": "Agenda conciertos concerts-metal",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/8f5d0787ed9af05113eb41afb36c17bd-double-speakers-icon.png?v=1705356231424"
+    },
+    {
+      "url": "https://diosdeath.bandcamp.com/",
+      "text": "Roods From God en Bandcamp",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/bargain-2.png?v=1697315503860"
+    },
+    {
+      "url": "https://es.wallapop.com/item/dios-roods-from-god-1131993019",
+      "text": "Roods From God en Wallapop",
+      "img": "https://about.wallapop.com/wp-content/themes/wallapop-theme-3/assets/img/wallapop.svg"
+    },
+    {
+      "url": "https://www.instagram.com/dios_death/",
+      "text": "Instagram",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/pngtree-instagram-icon-instagram-logo-png-image_3584852.png?v=1697315535781"
+    },
+    {
+      "url": "https://open.spotify.com/artist/4EgUblcpgrPXIXFpGyUmAU",
+      "text": "Spotify",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/Spotify_logo_without_text.svg.webp?v=1698707630572"
+    },
+    {
+      "url": "https://www.youtube.com/@diosdeathmetal",
+      "text": "Youtube",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/free-youtube-logo-icon-2431-thumb.png?v=1697315620707",
+      "altText": ""
+    },
+    {
+      "url": "https://www.facebook.com/dios.death",
+      "text": "Facebook",
+      "img": "https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/2021_Facebook_icon.svg.png?v=1697315585172",
+      "altText": ""
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "arena": "",
+    "bandcamp": "https://diosdeath.bandcamp.com/",
+    "cohost": "",
+    "dev": "",
+    "facebook": "https://www.facebook.com/dios.death",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "https://www.instagram.com/dios_death/",
+    "keybase": "",
+    "kofi": "",
+    "letterboxd": "",
+    "linkedin": "",
+    "mastodon": "",
+    "medium": "",
+    "onlyfans": "",
+    "patreon": "",
+    "pinboard": "",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "https://open.spotify.com/artist/4EgUblcpgrPXIXFpGyUmAU",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "",
+    "youtube": "https://www.youtube.com/@diosdeathmetal",
+    "email": "dios.deathmetal@gmail.com"
+  }
+}

@@ -1,0 +1,34 @@
+/******************************************************************************
+TIP: Get started creating your own theme here
+
+- Set values for the main site variables for properties like fonts and colors
+- You can also add any style rules you like
+
+- Make sure you have `custom-theme` in settings.json theme property
+- (Update it if you changed the CSS file name)
+******************************************************************************/
+
+:root {
+  --font-family: Arial, sans-serif;
+  --font-family-header: Arial, sans-serif;
+  --font-family-list: Arial, sans-serif;
+  --color-bg: black;
+  --color-bg-alt: darkred;
+  --color-text-main: white;
+  --color-primary: darkred;
+  --avatar-max-width: 300px;
+}
+
+/* Add your style rules! */
+ul.link-list li a span {
+  flex-grow: 1;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+body {
+  background-image: url("https://cdn.glitch.global/092f9950-8152-46c1-b2b0-b559a1c84ba3/2501background.jpg?v=1740598169289");
+  background-size: 80%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
